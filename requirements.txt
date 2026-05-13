@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langgraph
+langchain-core
+langchain-community
+langchain-groq
+langsmith
+mcp
+pydantic
+streamlit
+nest_asyncio
+airportsdata
